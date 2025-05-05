@@ -66,4 +66,6 @@ The attributes of this data set include:
 - Coffee house coupons have their highest acceptance rate at 10AM.
 - Coffee house coupons have their highest acceptance rate when it is 80 degress or warmer.
 
+Link to Git Repo: https://github.com/stephen-scheiman/final_assignment_5.1
+
 Link to Jupyter Notebook: https://github.com/stephen-scheiman/final_assignment_5.1/blob/main/prompt.ipynb
