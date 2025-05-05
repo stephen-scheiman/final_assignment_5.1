@@ -51,3 +51,19 @@ The attributes of this data set include:
 3. Coupon attributes
     - time before it expires: 2 hours or one day
 
+**Summary of Findings**
+
+*Bar Coupon Data*
+
+- Drivers who frequent bars more than three times a month have a high propensity to accept bar coupons.
+- Drivers below the age of 25 have a higher propensity to accept bar coupons than those older than 25.
+- Drivers with adult passengers are more likely to accept a bar coupon than those with a child in the car.
+- Drivers who eat at "cheap" restaurants and make less than $50K per year don't vary significantly from the population at large in accepting bar coupons.
+- Working in Farming, Fishing or Agriculture doesn't appear to have an impact on acceptance rates.
+
+*Coffee House Coupon Data*
+- As with bar patronage, those who frequent coffee houses three or more times per month have a higher propensity to accept coffee house coupons.
+- Coffee house coupons have their highest acceptance rate at 10AM.
+- Coffee house coupons have their highest acceptance rate when it is 80 degress or warmer.
+
+Link to Jupyter Notebook: https://github.com/stephen-scheiman/final_assignment_5.1/blob/main/prompt.ipynb
